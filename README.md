@@ -7,8 +7,8 @@ This code is run in Python 3.8.1 environment and use CUDA 11.2 and cuDNN 8 for t
 </p>
 
 # Additional Links
-As for the link to the thesis can be accessed through this google drive link: https://docs.google.com/document/d/1XqSFGuMd0BBAJyQIJC_TEcZDmjS-0Z8T/edit?usp=sharing&ouid=109370577966711764027&rtpof=true&sd=true
-Link to dataset the is used in this project -> https://drive.google.com/drive/folders/1HmhhPUqU-Wv8VGsZV8iusO3kKnVkzmaw?usp=drive_link
-Link to all trained VGG16 Models -> https://drive.google.com/drive/folders/1-8Y8a1RTt-6ym7iYLeLLwweTgNJzunP3?usp=sharing
+As for the link to the thesis can be accessed through this google drive link: https://docs.google.com/document/d/1XqSFGuMd0BBAJyQIJC_TEcZDmjS-0Z8T/edit?usp=sharing&ouid=109370577966711764027&rtpof=true&sd=true </br>
+Link to dataset the is used in this project -> https://drive.google.com/drive/folders/1HmhhPUqU-Wv8VGsZV8iusO3kKnVkzmaw?usp=drive_link</br>
+Link to all trained VGG16 Models -> https://drive.google.com/drive/folders/1-8Y8a1RTt-6ym7iYLeLLwweTgNJzunP3?usp=sharing</br>
 
 
